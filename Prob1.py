@@ -5,8 +5,6 @@
 ##################################################
 
 import string
-import random
-
 
 class Message(object):
     '''
@@ -305,8 +303,7 @@ def decode_story(story_string):
 
 
 
-# Runs the game when you launch the program
+# If you have any testing code you want to run with the program
+# insert it in the if statement below.
 if __name__ == '__main__':
     pass
-    # story = read_story('story.txt')
-    # decode_story(story)
