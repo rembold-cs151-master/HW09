@@ -16,4 +16,4 @@ The homework pdf has the basic instructions, and you should definitely read the 
 __Remember to fill out the commented metadata at the top of each Python script!__
 
 #### Testing
- - 
+ - Autotests are written for pretty much all the methods and functions, so you should be able to get a good idea if you are doing everything correctly. Don't hesitate to contact me to ask questions though if something is going weird!
