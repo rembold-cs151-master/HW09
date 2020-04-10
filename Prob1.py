@@ -160,7 +160,7 @@ class PlainMsg(Message):
 # -------------------------------------
 # Some helper functions for CipherMsg
 # -------------------------------------
-def load_words():
+def load_words(file_name):
     """
     Returns a list of valid words, where all words are
     strings of lowercase characters.
